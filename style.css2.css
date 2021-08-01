@@ -1,0 +1,215 @@
+*{
+    box-sizing:border-box;
+}
+
+#projects {
+    display: flex;
+}
+
+#About {
+    display: flex;
+}
+
+.first {
+    display: inline-block;
+}
+
+.second {
+    display: inline-block;
+    text-align: left;
+    margin-left: 1700px;
+}
+
+.big {
+    text-align: left;
+}
+
+.word {
+    background-color: white;
+    color: black;
+}
+
+li {
+    display: inline-block;
+    word-break:normal;
+    word-spacing: 2cm;
+}
+
+a {
+    color: black;
+    word-spacing: cm;
+}
+
+.para {
+    padding: 20px;
+    margin: 20px;
+}
+
+.third {
+    background-image: url(../css/architect.jpg);
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 800px;
+    margin-left: 200px;
+}
+
+
+
+strong {
+    color:white;
+    background-color: black;
+    border-style: black solid;
+    padding: 2px;
+}
+
+h2 {
+    color: white;
+}
+
+#projects {
+    display: inline-block;
+    width: 100%;
+    height: 100px;
+    
+
+}
+
+.image1 {
+    display:inline-block;
+    background-image: url(../css/house1.jpg);
+    background-repeat: no-repeat;
+    width: 25%;
+    height: 300px;
+    margin-bottom: 5px;
+}
+
+.image2 {
+    display:inline-block;
+    background-image: url(../css/house2.jpg);
+    background-repeat: no-repeat;
+    width: 25%;
+    height: 300px;
+    margin-bottom: 5px;
+}
+
+.image3 {
+    display:inline-block;
+    background-image: url(../css/house3.jpg);
+    background-repeat: no-repeat;
+    width: 20%;
+    height: 300px;
+    margin-bottom: 5px;
+}
+
+.image4 {
+    display:inline-block;
+    background-image: url(../css/house4.jpg);
+    background-repeat: no-repeat;
+    width: 20%;
+    height: 300px;
+    margin-bottom: 5px;
+}
+
+p {
+    color:black;
+}
+
+.house {
+    color: white;
+    background-color: black;
+    width: 25%;
+    padding-left: 10px;
+    margin-top: 0px;
+}
+ .all {
+     height: 100%;
+     width: 100%;
+ }
+ .lorem {
+     size: 5px;
+     text-align: left;
+ }
+
+ #About {
+     display: inline-block;
+ }
+ .age40 {
+    display: inline-block;
+    width: 20%;
+    height: 300px;
+    margin-bottom: 5px;
+ }
+
+
+ .loremjohndoe {
+     width: 200px;
+     margin-top: 0px;
+     margin-left: 65px;
+     text-align: center;
+ }
+
+ h3 {
+     color: gray;
+     margin-top: 0px;
+     text-align: center;
+     margin-right: 60px;
+ }
+
+ .JD {
+     color: black;
+     text-align: center;
+     margin-bottom: 0px;
+     margin-right: 60px;
+ }
+
+
+ .johndoe {
+     width: 90%;
+     height: 200px;
+ }
+ 
+ button {
+     width: 100%;
+     border-style: solid;
+     border-color: gray;
+ }
+
+ .cntct {
+     color: black;
+     font-family: 'Courier New', Courier, monospace;
+ }
+
+ .ok {
+     color: black;
+     font-family: 'Times New Roman', Times, serif;
+ }
+
+ .name {
+     width: 100%;
+     height: 40px;
+     border-radius:3px;
+ }
+
+ .message {
+     color: white;
+     background-color: black;
+     width: 10%;
+     height: 30px;
+     text-align: center;
+ }
+ .background {
+     background-image: url(../css/map.jpg);
+     width: 100%;
+     height: 1200px;
+     margin:20px
+ }
+
+ .last {
+     background-color: black;
+     padding: 10px 80px;
+ }
+
+ .powered {
+     color: white;
+     text-align: center;
+ }

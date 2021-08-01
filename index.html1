@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page </title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+   <div class="all">
+    <div class="big">
+        <div class="first">
+            <p class="word"> <strong> BR </strong> Architects </p>
+        </div>
+         <div class="second">
+             <ul>
+                 <li> <a href="#projects"> Projects </a> </li>
+                 <li><a href="#About"> About </a></li>
+                 <li><a href="#contact"> contact </a></li>
+             </ul>
+         </div>
+    </div>
+    <hr>
+    <center> 
+    <div class="third">
+             
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+
+              <h2 class="para"> <strong> BR </strong> Architects</h2>
+    </div>
+    </center>
+        <br>
+       <div id="projects">
+        <p> <b>Projects</b> </p>
+        <hr>
+          <div class="image1">
+              <p class="house">summer house</p>
+          </div>
+          <div class="image2">
+              <p class="house">brick house</p>
+          </div>
+          <div class="image3">
+              <p class="house">renovated</p>
+          </div>
+          <div class="image4">
+              <p class="house">barn house</p>
+          </div>
+          <div class="image2">
+              <p class="house">summer house</p>
+          </div>
+          <div class="image1">
+              <p class="house">brick house</p>
+          </div>
+          <div class="image4">
+              <p class="house">renovated</p>
+          </div>
+          <div class="image4">
+              <p class="house">barn house</p>
+          </div>
+       </div>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+    <div id="About">
+        <p><b>About</b></p>
+        <hr>
+        <p class="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab error a sint vel, distinctio sed ea! Eligendi eos nesciunt ex, aperiam voluptatum blanditiis ullam. Iusto nobis nam voluptate suscipit minima.
+        Consequuntur molestias ut eum asperiores modi nobis impedit id vero quibusdam fugiat sed nisi commodi aspernatur ipsa fugit, explicabo quod! Quisquam temporibus ab incidunt error harum placeat expedita natus architecto?
+        Assumenda repellendus possimus eius? Non assumenda esse, hic, labore aliquid amet odio ut doloremque facere fugit qui dolor eos, reiciendis neque itaque in. Consequatur autem nisi maxime, sit dolorem et?</p>
+       <br>
+       <div class="age40">
+         <img class="johndoe" src="images/john_doe.jpg" alt="">
+         <br>
+         <center><h2 class="JD">John Doe</h2></center>
+         <br>
+         <center><h3>CEO & Founder</h3></center>
+         <br>
+         <p class="loremjohndoe">Lorem, ipsum dolor sit amet nulla delectus quaerat mollita optio, alias rem? </p>
+         <br>
+         <center><button>contact</button></center>
+       </div>
+       <div class="age40">
+         <img class="johndoe" src="images/jane_ross.png" alt="">
+         <br>
+         <h2 class="JD">Jane Ross</h2>
+         <br>
+         <h3>Architect</h3>
+         <br>
+         <p class="loremjohndoe">Lorem, ipsum dolor sit amet nulla delectus quaerat mollita optio, alias rem? </p>
+         <br>
+         <center><button>contact</button></center>
+       </div>
+       <div class="age40">
+        <img class="johndoe" src="images/mike_ross.jpg" alt="">
+        <br>
+        <h2 class="JD">Mike Ross</h2>
+        <br>
+        <h3>Architect</h3>
+        <br>
+        <p class="loremjohndoe">Lorem, ipsum dolor sit amet nulla delectus quaerat mollita optio, alias rem? </p>
+        <br>
+        <center><button>contact</button></center>
+       </div>
+       <div class="age40">
+        <img class="johndoe" src="images/dan_star.jpg" alt="">
+        <br>
+        <h2 class="JD">Dan Star</h2>
+        <br>
+        <h3>Architect</h3>
+        <br>
+        <p class="loremjohndoe">Lorem, ipsum dolor sit amet nulla delectus quaerat mollita optio, alias rem? </p>
+        <br>
+        <center><button>contact</button></center>
+       </div>
+    </div>
+    <br>
+    <br>
+    <div id="contact">
+      <h2 class="cntct">contact</h2>
+      <hr>
+      <p class="ok">let's get in contact and talk about your next project</p>
+      <br>
+      <div>
+       <input class="name" type="text" value="Name">
+      </div>
+      <br>
+      <div>
+       <input class="name" type="text" value="Email">
+      </div>
+      <br>
+      <div>
+       <input class="name" type="text" value="Subject">
+      </div>
+      <br>
+      <div>
+        <input class="name" type="text" value="Comment">
+      </div>
+      <br>
+      <div>
+        <h3 class="message">Send message</h3>
+      </div>
+      <br>
+      <div class="background"></div>
+      <br>
+      <div class="last">
+         <p class="powered">Paowered by moetez</p>
+      </div>
+    </div>
+
+  </div>
+</body>
+</html>
